@@ -26,7 +26,7 @@ Certificação
 1
 :   **CCNA**;
     *Cisco Certified Network Associate* - *Cisco ID No. CSCO13369079*
-![logo](https://raw.githubusercontent.com/keilon-araujo/teste/master/ccna_large.jpg =70x70)
+![logo](https://raw.githubusercontent.com/keilon-araujo/teste/master/ccna_large.jpg)
     
 Experiência Profissional
 ----------
