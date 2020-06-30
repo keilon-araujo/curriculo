@@ -1,9 +1,8 @@
 Keilon Robson Silva de Araujo
 =
 -------------------     ----------------------------
-#### Analista de Redes
-*keilon.araujo@gmail.com* 
-[linkedin/keilon-rs-araujo](https://www.linkedin.com/in/keilon-rs-araujo/)
+##### Analista de Redes
+*keilon.araujo@gmail.com* --- [linkedin/keilon-rs-araujo](https://www.linkedin.com/in/keilon-rs-araujo/)
 *Ceilândia, DF*
 *Cel.: +55 (61) 98427-8523*
 *31 anos*
@@ -26,7 +25,8 @@ Certificação
 ----------
 1
 :   **CCNA**;
-    *Cisco Certified Network Associate*
+    *Cisco Certified Network Associate* - *Cisco ID No. CSCO13369079*
+    ![logo](https://raw.githubusercontent.com/keilon-araujo/teste/master/ccna_large.jpg =70x70)
     
 Experiência Profissional
 ----------
